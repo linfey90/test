@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/lib/hessian-4.0.7.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/json-lib-2.2.3-jdk15.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/poi-3.10-FINAL.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/jedis-2.5.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/QRCode.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/core-2.3.0.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="hessian-4.0.7.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/hessian-4.0.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="json-lib-2.2.3-jdk15.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/json-lib-2.2.3-jdk15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library name="poi-3.10-FINAL.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/poi-3.10-FINAL.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="junit4">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/lib/junit-4.11.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jedis-2.5.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/jedis-2.5.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="QRCode.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/QRCode.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="core-2.3.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/core-2.3.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
