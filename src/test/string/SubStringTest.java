@@ -3,7 +3,7 @@ package test.string;
 public class SubStringTest {
 
     public static void main(String[] args) {
-        String str = "啊啊啊";
+        String str = "aaaaaaaaaa";
         try{
             System.out.println(str.substring(0, 3));
         }catch (Exception e){
