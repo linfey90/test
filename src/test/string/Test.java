@@ -6,5 +6,6 @@ package test.string;
 public class Test {
     public static void main(String[] args){
         System.out.prinlnt("ｇｉｔ　ｕｐｄａｔｅ");
+        System.out.prinlnt("local ideaAdd");
     }
 }
